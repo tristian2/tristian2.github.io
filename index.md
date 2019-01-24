@@ -31,6 +31,13 @@ iframe class="resp-iframe" src="" gesture="media"  allow="encrypted-media" allow
     </iframe>
 </div>
 
+<div class="video-container">
+    <iframe src="docs/siteStructureCEM.html" frameborder="0">
+    </iframe>
+</div>
+
+
+
 
 
 
