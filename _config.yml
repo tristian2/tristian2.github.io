@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 
 title: "tristian o'brien's github"
 description: "static demonstrations of some of my github content"
-logo: pizza.png
+logo: "pizza.png"
 show_downloads: "true"
 google_analytics: UA-133175927-1
 
