@@ -2,17 +2,7 @@
 ## Header 2
 ### Header 3
 
-<style>
-.resp-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
- </style>
- 
-<div class="resp-container">
-    <iframe class="resp-iframe" src="docs/siteStructureAll.html" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
-</div>
+<iframe class="resp-iframe" src="docs/siteStructureAll.html" gesture="media"  allow="encrypted-media" allowfullscreen>
 
 
 
@@ -24,7 +14,7 @@
     height: 0;
     overflow: hidden;
 }
-And finally style the iframe:
+
 .video-container iframe {
     position: absolute;
     top:0;
@@ -40,7 +30,7 @@ And finally style the iframe:
     <iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
-Style the div in CSS:
+
 
 
 
