@@ -27,7 +27,7 @@ iframe class="resp-iframe" src="" gesture="media"  allow="encrypted-media" allow
 
 
 <div class="video-container">
-    <iframe src="docs/siteStructureAll.html" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="docs/siteStructureAll.html"  allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
