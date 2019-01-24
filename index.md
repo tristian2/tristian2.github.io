@@ -6,7 +6,7 @@ iframe class="resp-iframe" src="" gesture="media"  allow="encrypted-media" allow
 
 
 
-
+<style>
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -23,7 +23,7 @@ iframe class="resp-iframe" src="" gesture="media"  allow="encrypted-media" allow
     height: 100%;
 }
 
-
+</style>
 
 
 <div class="video-container">
