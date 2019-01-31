@@ -19,14 +19,14 @@
 ## All sites for a SharePoint farm
 
 <div class="video-container">
-    <iframe src="docs/siteStructureAll.html" frameborder="0">
+    <iframe src="docs/finalSubmissionReportALL.html" frameborder="0">
     </iframe>
 </div>
 
 ## A site collection its sites and subsites
 
 <div class="video-container">
-    <iframe src="docs/siteStructureCEM.html" frameborder="0">
+    <iframe src="docs/finalSubmissionReportCEM.html" frameborder="0">
     </iframe>
 </div>
 
